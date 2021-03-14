@@ -1,8 +1,7 @@
 # Study projects on data analysis in jupyter notebook.
  
 ## Description.
-### [1. Identifying patterns that determine the success of a computer game on the market for an online store.] 
-()
+### [1. Identifying patterns that determine the success of a computer game on the market for an online store.] (https://github.com/pilosI/python_data_analysis-eng-/tree/main/1st_comp_games)
 Tasks:
 * Prepare data
 * Conduct exploratory data analysis
