@@ -1,4 +1,4 @@
-# Study projects for data analysis in jupyter notebook.
+# Study projects on data analysis in jupyter notebook.
  
 ## Description.
 ### [1. Identifying patterns that determine the success of a computer game on the market for an online store.] 
