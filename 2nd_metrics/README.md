@@ -1,4 +1,4 @@
-# 2. Business performance analysis for the marketing analytics department.
+# 2. Business metrics analysis for the marketing analytics department.
 
 ## Project Description
 Evaluation of channels for attracting users to the Internet service.
