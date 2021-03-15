@@ -21,4 +21,4 @@ Finished
 
 ## Used libraries
 
-<<code>panda</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code>, <code>plotli</code>, <code>skip</code>
+<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code>, <code>plotli</code>, <code>skip</code>
