@@ -14,7 +14,7 @@ Results:
 Recommendations for conducting an advertising campaign for an online store:
 * The company should take into account the distribution region, since in Japan the emphasis should be on role playing games for the Playstation, as well as the advertising campaign should be carried out in the action genre in all regions. In Europe and North America, the emphasis should be on games for all ages (E) and adults (M), xbox one and PS4, action, shooter and possibly sports.
 
-### [2. Business metrics analysis for Marketing Analytics.] ()
+### [2. Business metrics analysis for Marketing Analytics.](https://github.com/pilosI/python_data_analysis-eng-/tree/main/2nd_metrics)
 Tasks:
 * Prepare data
 * Calculate metrics:
