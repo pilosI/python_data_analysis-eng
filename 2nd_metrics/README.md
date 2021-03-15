@@ -20,4 +20,4 @@ Finished
 
 ## Used libraries
 
-<<code>panda</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code>
+<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>seaborn</code>
