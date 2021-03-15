@@ -13,7 +13,7 @@ Learn how to prepare data, build graphs, and test statistical hypotheses about t
 
 ## Output
 
-The main criteria for the success of the game were found, after testing the hypotheses in one case, the statistical significance was not found, and in the other, the differences are statistically significant.
+The main criteria for the success of the game were found, after testing the hypotheses in one case, the statistical significance was not found, and in the other, the differences were statistically significant.
 
 ## Project status
 
