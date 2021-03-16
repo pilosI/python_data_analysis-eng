@@ -28,7 +28,7 @@ Results:
 * Based on the results of the work done, the most profitable channels for attracting users were identified, as well as the most promising cohorts of users based on metrics.
 
 
-### [3. Prioritize revenue growth hypotheses and test priority with A / B test.] ()
+### [3. Prioritize revenue growth hypotheses and test priority with A / B test.](https://github.com/pilosI/python_data_analysis-eng-/tree/main/3rd_AB_test)
 Tasks:
 * Use prioritization frameworks
 * Analyze A / B test
