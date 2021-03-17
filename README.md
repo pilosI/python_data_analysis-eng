@@ -51,7 +51,7 @@ Results:
 Every week, the dashboard collects information about user interaction with the service.
 * Dashboard link: https://public.tableau.com/profile/ilia7953#!/vizhome/project_Tableau_16084921779190/Dashboard2
 
-### [6. Fitness center customer churn forecasting.] ()
+### [6. Fitness center customer churn forecasting.](https://github.com/pilosI/python_data_analysis-eng-/tree/main/6th_ML)
 Tasks:
 * Identify portraits of clients prone to churn and vice versa
 * Build a churn forecasting model
