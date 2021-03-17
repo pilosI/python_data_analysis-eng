@@ -38,7 +38,7 @@ Results:
 * Conducted statistical tests
 * Based on the results of the analysis, the test should be continued in order to neutralize the effect of abnormal data on the average check of group B. Conversion rates have improved.
 
-### [4. Mobile app user behavior] ()
+### [4. Mobile app user behavior](https://github.com/pilosI/python_data_analysis-eng-/tree/main/4rt_UX)
 Tasks:
 * Explore the sales funnel
 * Investigate the results of the A / A / B test. Assess the reaction of users to font changing.
